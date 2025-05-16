@@ -1,1 +1,1 @@
-windowhints.com
+[windowhints.com](https://windowhints.com)
