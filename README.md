@@ -1,1 +1,1 @@
-# windowhints-releases
+windowhints.com
